@@ -15,3 +15,5 @@ Scanned Images:				contains original scanned images of subjects from vein scanne
 Vein Authentication System:	contains matlab code of Vein Pattern 
 
 Docs : 						contains documentation ,references and thesis
+
+![Image of GUI](https://github.com/maazanzar/Finger-Vein-Recognition/blob/master/docs/Diff%20Phases/GUI.png) 
